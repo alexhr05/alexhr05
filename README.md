@@ -6,8 +6,8 @@
 - ⚡ **Fun fact: I love cycling and doing other activities outdoors with friends**
 
 
-### 📊 GitHub Stats  
-# Top Languages:
+# 📊 GitHub Stats  
+### Top Languages:
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alexhr05&layout=compact&theme=tokyonight)  
-# Github Stats:
+### Github Stats:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alexhr05&show_icons=true&theme=tokyonight)  
