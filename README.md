@@ -4,6 +4,7 @@
 - 💻 **Programmer  | Passionate Learner  | Solution Finder**  
 - 🚀 **I love building cool stuff with different kind of languages!**  
 - ⚡ **Fun fact: I love cycling and doing other activities outdoors with friends**
+- 📧 **Email: alexhr05@gmail.com**
 
 
 # 📊 GitHub Stats  
