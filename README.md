@@ -2,8 +2,8 @@
 **I am Alex Hristov. I'm currently studying software engineering.**
 
 - 💻 **Programmer  | Passionate Learner  | Solution Finder**  
-- 🚀 **I love building cool stuff with different kind of languages!**  
-- ⚡ **Fun fact: I love cycling and doing other activities outdoors with friends**
+- 🚀 **I love building cool stuff with Frontend and Backend tech!**  
+- ⚡ **Fun fact: I love cycling and playing tenis**
 - 📧 **Email: alexhr05@gmail.com**
 
 
