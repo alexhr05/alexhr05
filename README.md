@@ -9,6 +9,6 @@
 
 # 📊 GitHub Stats  
 ### Top Languages:
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alexhr05&layout=compact&theme=tokyonight)  
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=alexhr05&layout=compact)
 ### Github Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alexhr05&show_icons=true&theme=tokyonight)  
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=alexhr05&show_icons=true)
